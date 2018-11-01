@@ -17,13 +17,13 @@ This small script creates a cronjob that every 10 hours get a fresh token using 
 Clone the repo
 
 ```bash
-git clone git@github.com:AlessioCasco/ecr-update-cred.git
+git clone git@github.com:AlessioCasco/ecr-update-token.git
 ```
 
 cd into the project
 
 ```bash
-cd ecr-update-cred
+cd ecr-update-token
 ```
 
 run the script with the 5 positional parameters:
